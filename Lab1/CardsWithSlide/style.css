@@ -1,0 +1,15 @@
+#container {
+    display: grid;
+    width: 80%;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    
+}
+.card {
+    width: 200px;
+}
+
+.image-text {
+    background-color: rgb(5, 53, 60);
+    color: white;
+}

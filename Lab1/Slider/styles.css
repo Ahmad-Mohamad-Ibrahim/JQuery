@@ -1,0 +1,28 @@
+#image {
+    position: absolute;
+    top: 150px;
+    left: 450px;
+}
+#stopBtn {
+    position: absolute;
+    top: 570px;
+    left: 660px;
+}
+
+#startBtn {
+    position: absolute;
+    top: 570px;
+    left: 560px;
+}
+.btn {
+    background-color: orange;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: monospace;
+    color: white;
+    padding: 10px;
+    margin-left: 10px;
+    text-align: center;
+    cursor: pointer;
+}
