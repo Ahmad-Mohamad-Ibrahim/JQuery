@@ -1,0 +1,39 @@
+html,body {
+margin: 0;
+}
+.controls {
+    display: inline;
+    position: relative;
+    left: 90%;
+}
+
+#todos {
+    overflow: scroll;
+    height: 400px;
+}
+
+#todoInputGrp {
+    width:65%;
+    margin-left: 18%;
+}
+
+#addBtn {
+    width: 600px;
+    padding: 12px;
+    margin-top: 10px;
+    margin-left: 33%;
+}
+
+.done {
+    background-color: rgb(119, 195, 119) !important;
+}
+.done::before {
+    content: "";
+    background-color: rgb(24, 99, 24) !important;
+    opacity: 50%;
+}
+
+#inputForm {
+    position: relative;
+    /* top: 400px; */
+}
