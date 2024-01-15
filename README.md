@@ -1,1 +1,2 @@
-# JQuery
+# JQuery Course 1
+
